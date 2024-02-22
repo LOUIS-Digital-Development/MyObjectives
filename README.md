@@ -1,6 +1,6 @@
 # Politique de confidentialité de MyObjectives
 
-Bienvenue dans la politique de confidentialité de MyObjectives, développée et exploitée par l'entreprise LOUIS Digital Development. Cette politique décrit la manière dont je collecte, utilise et protège vos données lorsque vous utilisez mon application de gestion des tâches.
+Bienvenue dans la politique de confidentialité de MyObjectives. Cette politique décrit la manière dont je collecte, utilise et protège vos données lorsque vous utilisez mon application de gestion des tâches.
 
 ## 1. Collecte de données
 
@@ -32,8 +32,7 @@ Si vous avez des questions concernant ma politique de confidentialité ou si vou
 Dernière mise à jour : 22/02/2024.
 
 Cordialement,  
-Sindbad LOUIS  
-LOUIS Digital Development
+Sindbad LOUIS
 
 
 
